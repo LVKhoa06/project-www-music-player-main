@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Abcdefu",
+        "singer": "Gayle",
+        "path": "./assets/music/abcdefu.mp3",
+        "image": "./assets/img/abcdefu.jpg"
+    },
+    {
+        "name": "Death Bed",
+        "singer": "Powfu",
+        "path": "./assets/music/death-bed.mp3",
+        "image": "./assets/img/death-bed.jpg"
+    },
+    {
+        "name": "Hero",
+        "singer": "Cash Cash",
+        "path": "./assets/music/hero.mp3",
+        "image": "./assets/img/hero.jpg"
+    },
+    {
+        "name": "Infinity",
+        "singer": "Jaymes Young",
+        "path": "./assets/music/infinity.mp3",
+        "image": "./assets/img/infinity.jpg"
+    },
+    {
+        "name": "La La La",
+        "singer": "Naughty Boy",
+        "path": "./assets/music/la-la-la.mp3",
+        "image": "./assets/img/la-la-la.jpg"
+    },
+    {
+        "name": "Love Is Gone",
+        "singer": "Slander, Dylan Mathew",
+        "path": "./assets/music/love-is-gone.mp3",
+        "image": "./assets/img/love-is-gone.jpg"
+    },
+    {
+        "name": "Past Lives",
+        "singer": "Børns",
+        "path": "./assets/music/past-lives.mp3",
+        "image": "./assets/img/past-lives.jpg"
+    },
+    {
+        "name": "7 Years",
+        "singer": "Banners",
+        "path": "./assets/music/7years.mp3",
+        "image": "./assets/img/7years.jpg"
+    },
+    {
+        "name": "Arcade",
+        "singer": "Banners",
+        "path": "./assets/music/arcade.mp3",
+        "image": "./assets/img/arcade.png"
+    },
+    {
+        "name": "A Thousand Years",
+        "singer": "Banners",
+        "path": "./assets/music/a-thousand-years.mp3",
+        "image": "./assets/img/a-thousand-years.jpg"
+    },
+    {
+        "name": "Closer",
+        "singer": "Banners",
+        "path": "./assets/music/closer.mp3",
+        "image": "./assets/img/closer.jpg"
+    },
+    {
+        "name": "Cradles",
+        "singer": "Banners",
+        "path": "./assets/music/cradles.mp3",
+        "image": "./assets/img/cradles.jpg"
+    },
+    {
+        "name": "Dancin",
+        "singer": "Banners",
+        "path": "./assets/music/dancin.mp3",
+        "image": "./assets/img/dancin.jpg"
+    },
+    {
+        "name": "Someone To You",
+        "singer": "Banners",
+        "path": "./assets/music/someone-to-you.mp3",
+        "image": "./assets/img/someone-to-you.jpg"
+    },
+    {
+        "name": "Dancing With Your Ghost",
+        "singer": "Banners",
+        "path": "./assets/music/dancing-with-your-ghost.mp3",
+        "image": "./assets/img/dancing-with-your-ghost.jpg"
+    },
+    {
+        "name": "Daylight",
+        "singer": "Banners",
+        "path": "./assets/music/daylight.mp3",
+        "image": "./assets/img/daylight.jpg"
+    },
+    {
+        "name": "Faded",
+        "singer": "Banners",
+        "path": "./assets/music/faded.mp3",
+        "image": "./assets/img/faded.jpg"
+    },
+    {
+        "name": "Hold On",
+        "singer": "Banners",
+        "path": "./assets/music/hold-on.mp3",
+        "image": "./assets/img/hold-on.jpg"
+    },
+    {
+        "name": "I Love You 3000",
+        "singer": "Banners",
+        "path": "./assets/music/i-love-you-3000.mp3",
+        "image": "./assets/img/i-love-you-3000.jpg"
+    },
+    {
+        "name": "It's You",
+        "singer": "Banners",
+        "path": "./assets/music/its-you.mp3",
+        "image": "./assets/img/its-you.jpg"
+    },
+    {
+        "name": "Let Her Go",
+        "singer": "Banners",
+        "path": "./assets/music/let-her-go.mp3",
+        "image": "./assets/img/let-her-go.jpg"
+    },
+    {
+        "name": "Let Me Down Slowly",
+        "singer": "Banners",
+        "path": "./assets/music/let-me-down-slowly.mp3",
+        "image": "./assets/img/let-me-down-slowly.jpg"
+    },
+    {
+        "name": "Little Do You Know",
+        "singer": "Banners",
+        "path": "./assets/music/little-do-you-know.mp3",
+        "image": "./assets/img/little-do-you-know.jpg"
+    },
+    {
+        "name": "Lonely V2",
+        "singer": "Banners",
+        "path": "./assets/music/lonely-v2.mp3",
+        "image": "./assets/img/lonely-v2.jpg"
+    },
+    {
+        "name": "Lovely",
+        "singer": "Banners",
+        "path": "./assets/music/lovely.mp3",
+        "image": "./assets/img/lovely.jpg"
+    },
+    {
+        "name": "Memories",
+        "singer": "Banners",
+        "path": "./assets/music/memories.mp3",
+        "image": "./assets/img/memories.jpg"
+    },
+    {
+        "name": "Oceans",
+        "singer": "Banners",
+        "path": "./assets/music/oceans.mp3",
+        "image": "./assets/img/oceans.jpg"
+    },
+    {
+        "name": "Perfect",
+        "singer": "Banners",
+        "path": "./assets/music/perfect.mp3",
+        "image": "./assets/img/perfect.jpg"
+    },
+    {
+        "name": "Runaway",
+        "singer": "Banners",
+        "path": "./assets/music/runaway.mp3",
+        "image": "./assets/img/runaway.jpg"
+    },
+    {
+        "name": "See You Again",
+        "singer": "Banners",
+        "path": "./assets/music/see-you-again.mp3",
+        "image": "./assets/img/see-you-again.jpg"
+    },
+    {
+        "name": "Skyfall",
+        "singer": "Banners",
+        "path": "./assets/music/skyfall.mp3",
+        "image": "./assets/img/skyfall.jpg"
+    },
+    {
+        "name": "Snowman",
+        "singer": "Banners",
+        "path": "./assets/music/snowman.mp3",
+        "image": "./assets/img/snowman.jpg"
+    },
+    {
+        "name": "Someone You Loved",
+        "singer": "Banners",
+        "path": "./assets/music/someone-you-loved.mp3",
+        "image": "./assets/img/someone-you-loved.jpg"
+    },
+    {
+        "name": "Stereo Hearts",
+        "singer": "Banners",
+        "path": "./assets/music/stereo-hearts.mp3",
+        "image": "./assets/img/stereo-hearts.jpg"
+    },
+    {
+        "name": "Sugar",
+        "singer": "Banners",
+        "path": "./assets/music/sugar.mp3",
+        "image": "./assets/img/sugar.jpg"
+    },
+    {
+        "name": "Talking To The Moon",
+        "singer": "Banners",
+        "path": "./assets/music/talking-to-the-moon.mp3",
+        "image": "./assets/img/talking-to-the-moon.jpg"
+    },
+    {
+        "name": "The Nights",
+        "singer": "Banners",
+        "path": "./assets/music/the-nights.mp3",
+        "image": "./assets/img/the-nights.jpg"
+    },
+    {
+        "name": "Viva La Vida",
+        "singer": "Banners",
+        "path": "./assets/music/viva-la-vida.mp3",
+        "image": "./assets/img/viva-la-vida.jpg"
+    },
+    {
+        "name": "Without Me",
+        "singer": "Banners",
+        "path": "./assets/music/without-me.mp3",
+        "image": "./assets/img/without-me.jpg"
+    },
+    {
+        "name": "You Broke Me First",
+        "singer": "Banners",
+        "path": "./assets/music/you-broke-me-first.mp3",
+        "image": "./assets/img/you-broke-me-first.jpg"
+    }
+]
