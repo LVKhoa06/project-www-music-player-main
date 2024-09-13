@@ -183,7 +183,7 @@
         "name": "Skyfall",
         "singer": "Banners",
         "path": "./assets/music/skyfall.mp3",
-        "image": "./assets/img/skyfall.jpg"
+        "image": "./assets/img/skyfall.png"
     },
     {
         "name": "Snowman",
